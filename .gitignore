@@ -1,0 +1,7 @@
+#IDE methadata
+.vscode
+.idea
+
+dist
+
+node_modules
